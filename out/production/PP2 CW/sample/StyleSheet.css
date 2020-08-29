@@ -1,0 +1,225 @@
+.main-heading {
+    -fx-font-size: 20px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-font-weight: bolder;
+}
+
+.sub-heading {
+    -fx-font-size: 15px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-font-weight: bolder;
+}
+
+.label {
+    -fx-font-family: "Futura", sans-serif;
+}
+
+.text-field {
+    -fx-padding: 8px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-family: "Futura", sans-serif;
+}
+
+.num-result {
+    -fx-padding: 8px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-min-width: 208px;
+}
+
+.menu-bar-button {
+    -fx-background-color: #CECECE;
+    -fx-text-fill: #646464;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-padding: 8px;
+    -fx-border-radius: 80px;
+    -fx-background-radius: 80px;
+    -fx-border-color: #646464;
+    -fx-border-width: 2px;
+    -fx-cursor: hand;
+}
+
+.menu-bar-button:hover {
+    -fx-background-color: #C1C1C1;
+}
+
+.help-button {
+    -fx-background-color: #FFFFFF;
+    -fx-text-fill: #4D74DE;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-border-radius: 5em;
+    -fx-background-radius: 5em;
+    -fx-border-color: #4D74DE;
+    -fx-border-width: 2px;
+    -fx-cursor: hand;
+}
+
+.help-button:hover {
+    -fx-background-color: #D6D6D6;
+}
+
+.selected-menu-bar-button {
+    -fx-background-color: #F0F0FF;
+    -fx-text-fill: black;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-padding: 8px;
+    -fx-border-radius: 80px;
+    -fx-background-radius: 80px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+}
+
+.clear-button {
+    -fx-text-fill: black;
+    -fx-min-width: 150px;
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+.clear-button:hover {
+}
+
+
+.calculate-button {
+    -fx-background-color: #4D74DE;
+    -fx-text-fill: white;
+    -fx-min-width: 150px;
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-font-weight: bolder;
+    -fx-border-color: #707070;
+    -fx-border-width: 1px;
+}
+
+.calculate-button:hover {
+    -fx-background-color: #3B5AAF;
+}
+
+.numpad-button {
+    -fx-min-width: 40px;
+    -fx-min-height: 40px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-font-size: 15px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+.enter-button {
+    -fx-min-width: 55px;
+    -fx-min-height: 90px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-font-size: 15px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+.tab-pane {
+    -fx-background-color: #9c9c9c;
+    -fx-min-width: 600px;
+    -fx-min-height: 350px;
+    -fx-max-width: 600px;
+    -fx-max-height: 350px;
+    -fx-border-color: #707070;
+}
+
+.home-main-heading {
+    -fx-font-size: 22px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-font-weight: bolder;
+
+}
+
+.home-sub-heading {
+    -fx-font-size: 15px;
+    -fx-font-family: "Futura", sans-serif;
+}
+
+.home-main-button {
+    -fx-background-color: #777777;
+    -fx-text-fill: white;
+    -fx-min-width: 190px;
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-font-weight: bolder;
+    -fx-cursor: hand;
+}
+
+.home-main-button:hover {
+    -fx-background-color: #524E4E;
+
+}
+
+.home-close-button {
+    -fx-background-color: #AD1212;
+    -fx-text-fill: white;
+    -fx-min-width: 190px;
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-font-weight: bolder;
+    -fx-cursor: hand;
+}
+
+.home-close-button:hover {
+    -fx-background-color: #8B0E0E;
+}
+
+.help-view-heading {
+    -fx-font-family: monospace;
+    -fx-font-weight: 800;
+    -fx-font-size: 25px;
+}
+
+.help-view-paragraph {
+    -fx-font-family: monospace;
+    -fx-font-weight: bolder;
+    -fx-font-size: 14px;
+}
+
+.help-view-close-button {
+    -fx-background-color: #4D74DE;
+    -fx-text-fill: white;
+    -fx-min-width: 150px;
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-family: monospace;
+    -fx-font-weight: bolder;
+    -fx-border-color: #707070;
+    -fx-border-width: 1px;
+}
+
+.help-view-close-button:hover {
+    -fx-background-color: #3B5AAF;
+}
+
+.clear-history-button {
+    -fx-background-color: #AD1212;
+    -fx-text-fill: white;
+    -fx-min-width: 150px;
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-family: "Futura", sans-serif;
+    -fx-font-weight: bolder;
+    -fx-cursor: hand;
+}
+
+.clear-history-button:hover {
+    -fx-background-color: #8B0E0E;
+}

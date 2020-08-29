@@ -1,0 +1,45 @@
+Loan Amount (£): 50000.0
+Loan Term (in years): 10.0
+Interest Rate (%) : 1.9999999999999998
+Monthly Payment (£): 460.0672692127938
+
+Loan Amount (£): 50000.0
+Loan Term (in years): 0.8333278581572624
+Interest Rate (%) : 1.9999999999999998
+Monthly Payment (£): 460.07
+
+Loan Amount (£): 50000.296781295794
+Loan Term (in years): 10.0
+Interest Rate (%) : 1.9999999999999998
+Monthly Payment (£): 460.07
+
+Loan Amount (£): 48905.89160689266
+Loan Term (in years): 10.0
+Interest Rate (%) : 1.9999999999999998
+Monthly Payment (£): 450.0
+
+Loan Amount (£): 10000.0
+Loan Term (in years): 10.0
+Interest Rate (%) : 1.9999999999999998
+Monthly Payment (£): 92.01345384255876
+
+Loan Amount (£): 10000.0
+Loan Term (in years): 0.8333679594461251
+Interest Rate (%) : 1.9999999999999998
+Monthly Payment (£): 92.01
+
+Loan Amount (£): 9999.624637222654
+Loan Term (in years): 10.0
+Interest Rate (%) : 1.9999999999999998
+Monthly Payment (£): 92.01
+
+Loan Amount (£): 50000.0
+Loan Term (in years): 10.0
+Interest Rate (%) : 1.9999999999999998
+Monthly Payment (£): 460.0672692127938
+
+Loan Amount (£): 50000.296781295794
+Loan Term (in years): 10.0
+Interest Rate (%) : 1.9999999999999998
+Monthly Payment (£): 460.07
+

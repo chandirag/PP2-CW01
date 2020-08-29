@@ -1,0 +1,19 @@
+
+c
+java:S2095«"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(óÚßÄ
+g
+java:S1192a"LDefine a constant instead of duplicating this literal "INFORMATION" 3 times.(ë”ö¿üÿÿÿÿ
+a
+java:S1192a"FDefine a constant instead of duplicating this literal "Error" 4 times.(ë”ö¿üÿÿÿÿ
+a
+java:S1192&"KDefine a constant instead of duplicating this literal "text-field" 5 times.(¶ó«Ó
+a
+java:S1192%"FDefine a constant instead of duplicating this literal "label" 5 times.(ŒôÅ üÿÿÿÿ
+l
+java:S1192«"UDefine a constant instead of duplicating this literal "mortgageTempData.txt" 6 times.(óÚßÄ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Œ±‹øûÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(–ãœŒûÿÿÿÿ
+h
+java:S2677¬"LUse or store the value returned from "readLine" instead of throwing it away.(åí“¢ÿÿÿÿÿ

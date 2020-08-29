@@ -1,0 +1,19 @@
+
+[
+java:S1192'"FDefine a constant instead of duplicating this literal "label" 4 times.(Ëıœp
+c
+java:S2095œ"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(°…şÿ
+…
+java:S1130"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Ó´ëûÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ó´ëûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÃëÌ˜şÿÿÿÿ
+h
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(ğŞàıÿÿÿÿ
+a
+java:S1192]"FDefine a constant instead of duplicating this literal "Error" 3 times.(ë”ö¿üÿÿÿÿ
+a
+java:S1192("KDefine a constant instead of duplicating this literal "text-field" 4 times.(†Á‘ö
+k
+java:S1192œ"TDefine a constant instead of duplicating this literal "savingsTempData.txt" 6 times.(°…şÿ

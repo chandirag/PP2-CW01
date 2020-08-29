@@ -1,0 +1,66 @@
+Home Price (£): 100000.0
+Down Payment (£): 10000.0
+Loan Term (in years): 10.0
+Interest Rate (%) : 3.0
+Monthly Payment (£): 869.0467022855217
+
+Home Price (£): 100000.0
+Down Payment (£): 10000.0
+Loan Term (in years): 9.999955756018176
+Interest Rate (%) : 3.0
+Monthly Payment (£): 869.05
+
+Home Price (£): 100000.0
+Down Payment (£): 9999.65848290747
+Loan Term (in years): 10.0
+Interest Rate (%) : 3.0
+Monthly Payment (£): 869.05
+
+Home Price (£): 100000.0
+Down Payment (£): 48219.12345832084
+Loan Term (in years): 10.0
+Interest Rate (%) : 3.0
+Monthly Payment (£): 500.0
+
+Home Price (£): 100000.0
+Down Payment (£): 10000.0
+Loan Term (in years): 10.0
+Interest Rate (%) : 3.0
+Monthly Payment (£): 869.0467022855217
+
+Home Price (£): 100000.0
+Down Payment (£): 22328.685187481256
+Loan Term (in years): 10.0
+Interest Rate (%) : 3.0
+Monthly Payment (£): 750.0
+
+Home Price (£): 100000.0
+Down Payment (£): 22328.69
+Loan Term (in years): 10.0
+Interest Rate (%) : 3.0
+Monthly Payment (£): 749.9999535299606
+
+Home Price (£): 100000.0
+Down Payment (£): 22328.69
+Loan Term (in years): 9.999999277566332
+Interest Rate (%) : 3.0
+Monthly Payment (£): 750.0
+
+Home Price (£): 100000.00481251875
+Down Payment (£): 22328.69
+Loan Term (in years): 10.0
+Interest Rate (%) : 3.0
+Monthly Payment (£): 750.0
+
+Home Price (£): 100000.0
+Down Payment (£): 22328.685187481256
+Loan Term (in years): 10.0
+Interest Rate (%) : 3.0
+Monthly Payment (£): 750.0
+
+Home Price (£): 100000.0
+Down Payment (£): 22328.685187481256
+Loan Term (in years): 10.0
+Interest Rate (%) : 3.0
+Monthly Payment (£): 750.0
+

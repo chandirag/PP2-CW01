@@ -1,0 +1,35 @@
+Present Value (£): 1000.0
+Monthly Interest Rate (%): 5.0
+Time (in years): 7.0
+Future Value (£): 1418.0360522260398
+
+Present Value (£): 1000.0
+Monthly Interest Rate (%): 5.0
+Time (in years): 5.0
+Future Value (£): 1283.3586785035118
+
+Present Value (£): 1000.0
+Monthly Interest Rate (%): 5.0
+Time (in years): 7.0
+Future Value (£): 1418.0360522260398
+
+Present Value (£): 10000.0
+Monthly Interest Rate (%): 3.0
+Time (in years): 10.0
+Future Value (£): 13493.535471908246
+
+Present Value (£): 10000.003355748953
+Monthly Interest Rate (%): 3.0
+Time (in years): 10.0
+Future Value (£): 13493.54
+
+Present Value (£): 10000.0
+Monthly Interest Rate (%): 3.0000033641377044
+Time (in years): 10.0
+Future Value (£): 13493.54
+
+Present Value (£): 10000.0
+Monthly Interest Rate (%): 3.0
+Time (in years): 10.000011199804435
+Future Value (£): 13493.54
+

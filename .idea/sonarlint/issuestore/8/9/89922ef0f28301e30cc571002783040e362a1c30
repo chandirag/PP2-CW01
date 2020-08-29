@@ -1,0 +1,20 @@
+
+^
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(«Òº
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¦¢ûú
+^
+java:S2095w"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(«Òº
+^
+java:S2095<"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(«Òº
+a
+java:S2095™"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ
+a
+java:S2095†"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ
+]	java:S899Œ"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+^
+java:S2095Z"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(«Òº
+r
+java:S1192?"WDefine a constant instead of duplicating this literal "Monthly Payment (Â£): " 3 times.(îà¥ğùÿÿÿÿ
+a
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ

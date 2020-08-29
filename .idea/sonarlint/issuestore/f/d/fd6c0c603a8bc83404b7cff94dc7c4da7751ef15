@@ -1,0 +1,21 @@
+
+c
+java:S2095¸"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Í‘ıÁ
+g
+java:S1192k"LDefine a constant instead of duplicating this literal "INFORMATION" 3 times.(ë”ö¿üÿÿÿÿ
+a
+java:S1192k"FDefine a constant instead of duplicating this literal "Error" 4 times.(ë”ö¿üÿÿÿÿ
+a
+java:S1192,"KDefine a constant instead of duplicating this literal "text-field" 5 times.(†Á‘ö
+[
+java:S1192+"FDefine a constant instead of duplicating this literal "label" 5 times.(Ëıœp
+t
+java:S1192¸"]Define a constant instead of duplicating this literal "compoundInterestTempData.txt" 6 times.(Í‘ıÁ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÂîÚ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ó´ëûÿÿÿÿ
+…
+java:S1130"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Ó´ëûÿÿÿÿ
+h
+java:S2677¹"LUse or store the value returned from "readLine" instead of throwing it away.(Ï¼ğ‘ùÿÿÿÿ
