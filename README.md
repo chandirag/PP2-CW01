@@ -13,12 +13,9 @@ The program has the following functionality:
 
 ## Screenshots
 
-![Home Screen](https://imgur.com/31O4RSM)
-
-![Simple Savings Calculator View](https://imgur.com/a/UO6wJEd)
-
-![Help View](https://imgur.com/a/rhYl4JK)
-
+<img src="screenshots/home.jpg" width="700">
+<img src="screenshots/savings.jpg" width="700">
+<img src="screenshots/help.jpg" width="700">
 
 ## Used Versions  
 * [JDK 8: v1.8.0.251 ](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
